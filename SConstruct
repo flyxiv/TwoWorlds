@@ -15,7 +15,7 @@ def validate_parent_dir(key, val, env):
 
 
 libname = "EXTENSION-NAME"
-projectdir = "demo"
+projectdir = "game"
 
 localEnv = Environment(tools=["default"], PLATFORM="")
 
